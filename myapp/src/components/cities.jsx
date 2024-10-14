@@ -61,7 +61,7 @@ function cities() {
       name: "Hong Kong",
       country: "China",
       image: "party4.jpg",
-      about: "Hong Kong became a British colony in 1842 and was handed back to China in 1997. It has a unique blend of Eastern and Western cultures, and is a major global financial center."
+      about: "Hong Kong became a British colony in 1842 and was handed back to China in 1997. It has a unique blend of Eastern and Western cultures, and is a major global financial center for all ."
     },
     {
       id: 9,
